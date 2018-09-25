@@ -8,7 +8,7 @@ export default class Home extends Component {
   render() {
     return (
       <div id="home">
-        This is the home page.
+        This is the home page. WOOOOOOOO!!!!!!!!!
         <div>
           <iframe
             width="560"
